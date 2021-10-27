@@ -278,7 +278,9 @@ form{
 }
 
 .cuadrocurso p{
-    text-align: left;
+    text-align: justify;
+    line-height: 30px;
+    margin-bottom: 20px;
 }
 
 .cuadrocurso img{
